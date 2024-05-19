@@ -1,6 +1,6 @@
 const input = document.getElementById("selectAvatar");
 const avatar = document.getElementById("avatar");
-const textArea = document.getElementById("textAreaExample");
+const textArea = document.getElementById("textArea");
 const img = document.getElementsByTagName("img");
 img.style = "box-sizing: border-box;";
 
